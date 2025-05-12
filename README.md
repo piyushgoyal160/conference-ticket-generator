@@ -1,7 +1,3 @@
-Perfect bhai! Tere folder structure aur screenshots dekh ke maine README ko **exact project structure**, component names, aur file hierarchy ke hisaab se dubara likh diya hai — natural, human language mein — jaise tu ne khud likha ho:
-
----
-
 ## 📘 README – Conference Ticket Generator (React + Vite)
 
 Hey! 👋
@@ -91,4 +87,6 @@ Open your browser and go to `http://localhost:5173`
 
 Piyush Goyal
 Frontend Developer Intern Task Submission
+
+# conference-ticket-generator
 # conference-ticket-generator
